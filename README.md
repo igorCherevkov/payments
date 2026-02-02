@@ -3,8 +3,8 @@
 ## Клонирование
 
 ```
-git clone https://github.com/igorCherevkov/analytics-bot.git
-cd analytics-bot
+git clone https://github.com/igorCherevkov/payments.git
+cd payments
 ```
 
 ## Настройка переменных окружения
