@@ -1,0 +1,37 @@
+# node
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# env
+.env
+.env.*
+!.env.example
+
+# docker
+pg_data
+docker-data
+
+# misc
+.DS_Store
+
+# Nestjs specific
+/dist
+/build
+/tmp
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# temp directory
+.temp
+.tmp
+
+.vscode
